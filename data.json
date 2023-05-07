@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "productName": "Fresh Avocados",
+        "image": "https://images.pexels.com/photos/2204880/pexels-photo-2204880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": 4,
+        "price": 6.5,
+        "organic": true,
+        "description": "Non natus fugiat a nemo nobis aut sint eveniet. Sit ullam quia et corporis facere et mollitia repellendus est maxime quia et earum omnis quo ipsa maxime ut eius quae? Est temporibus nobis quo rerum laborum ut magnam nesciunt sed nostrum necessitatibus non iusto provident. Qui tempora voluptatibus qui libero laboriosam 33 quia tempora est porro enim sit dolorem sunt et facilis galisum."
+    },
+    {
+        "id": 1,
+        "productName": "Fresh Avocados",
+        "image": "https://images.pexels.com/photos/6127022/pexels-photo-6127022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": 4,
+        "price": 6.5,
+        "organic": true,
+        "description": "Non natus fugiat a nemo nobis aut sint eveniet. Sit ullam quia et corporis facere et mollitia repellendus est maxime quia et earum omnis quo ipsa maxime ut eius quae? Est temporibus nobis quo rerum laborum ut magnam nesciunt sed nostrum necessitatibus non iusto provident. Qui tempora voluptatibus qui libero laboriosam 33 quia tempora est porro enim sit dolorem sunt et facilis galisum."
+    },
+    {
+        "id": 2,
+        "productName": "Fresh Avocados",
+        "image": "https://images.pexels.com/photos/1591361/pexels-photo-1591361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 ",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": 4,
+        "price": 6.5,
+        "organic": true,
+        "description": "Non natus fugiat a nemo nobis aut sint eveniet. Sit ullam quia et corporis facere et mollitia repellendus est maxime quia et earum omnis quo ipsa maxime ut eius quae? Est temporibus nobis quo rerum laborum ut magnam nesciunt sed nostrum necessitatibus non iusto provident. Qui tempora voluptatibus qui libero laboriosam 33 quia tempora est porro enim sit dolorem sunt et facilis galisum."
+    },
+    {
+        "id": 3,
+        "productName": "Fresh Avocados",
+        "image": "https://images.pexels.com/photos/6127330/pexels-photo-6127330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": 4,
+        "price": 6.5,
+        "organic": true,
+        "description": "Non natus fugiat a nemo nobis aut sint eveniet. Sit ullam quia et corporis facere et mollitia repellendus est maxime quia et earum omnis quo ipsa maxime ut eius quae? Est temporibus nobis quo rerum laborum ut magnam nesciunt sed nostrum necessitatibus non iusto provident. Qui tempora voluptatibus qui libero laboriosam 33 quia tempora est porro enim sit dolorem sunt et facilis galisum."
+    }
+]
